@@ -194,5 +194,5 @@ if st.button("🎬 Recommend Movies"):
 # Footer
 st.markdown("""
 ---
-<center>© 2025 CineLegend Pro Max • All rights reserved</center>
+<center>© 2025 CineLegend Pro Max(s@nk) • All rights reserved</center>
 """, unsafe_allow_html=True)
