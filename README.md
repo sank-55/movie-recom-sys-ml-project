@@ -195,3 +195,6 @@ Fork & clone
 Create branch: git checkout -b feature/YourFeature
 Commit: git commit -m "Add feature"
 Push & open PR
+# results
+![Screenshot 2025-06-25 172545](https://github.com/user-attachments/assets/cd456be6-c7a2-4d4b-8010-c5fe9644c6be)
+
