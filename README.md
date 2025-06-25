@@ -173,6 +173,9 @@ Collapse
 
 ## 🚀 Quick Start
 
+# Results
+![Screenshot 2025-06-25 172545](https://github.com/user-attachments/assets/4c39d283-2e5a-4296-9566-675a9cc55b5d)
+
 ```bash
 # 1. Clone repository
 git clone https://github.com/yourusername/tmdv-movie-recommender.git
@@ -285,5 +288,4 @@ Experiment with TF-IDF or word embeddings (Word2Vec/BERT)
 Expose as REST API using FastAPI or Flask
 Add live user feedback and implicit signals
 
-# Results
-![Screenshot 2025-06-25 172545](https://github.com/user-attachments/assets/4c39d283-2e5a-4296-9566-675a9cc55b5d)
+
